@@ -1,0 +1,12 @@
+# Ignore Resources folder
+Resources/
+
+# Or ignore specific subfolders
+Resources/Notes/
+Resources/Datasets/
+
+# Ignore PDF files in Resources
+Resources/**/*.pdf
+
+# Ignore CSV datasets in Resources
+Resources/**/*.csv
