@@ -10,3 +10,4 @@ Resources/**/*.pdf
 
 # Ignore CSV datasets in Resources
 Resources/**/*.csv
+**/Daily_Tasks/
